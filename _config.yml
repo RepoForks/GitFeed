@@ -1,1 +1,4 @@
 theme: jekyll-theme-cayman
+title: GitFeed
+description: O jeito fácil de acompanhar seus repositórios prediletos do GitHub.
+show_downloads: false
